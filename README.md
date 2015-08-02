@@ -1,4 +1,4 @@
 # BaiduMusic_swift
 Swift版本简易播放本地音乐Demo
 
-![alt text](/Users/Jason/Desktop/image/pic/1.png "Title")
+![image](https://github.com/JasonXin/BaiduMusic_swift/blob/master/image/1.png)
